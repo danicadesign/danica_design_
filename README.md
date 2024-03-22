@@ -9,6 +9,7 @@
 # Let's turn your spaces into something extraordinary together! Connect with me on these social media platforms:
 
 # 🔗 Instagram 
+# 🔗 TikTok
 # 🔗 LinkedIn
 # 🔗 Pintrest
 # 🔗 Upwork
