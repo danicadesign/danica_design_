@@ -32,17 +32,16 @@ body {
 }
 
 .name-text {
-  background-color: black; /* Set the background color */
-  padding: 5px; /* Add some padding around the text */
-  background-clip: text; /* Clip the background to the text */
-  color: black; /* Make the text transparent */
+  background-color: black;
+  padding: 5px;
+  background-clip: text;
+  color: black;
   margin-top: -0.5rem;
 }
 
 .links {
   text-align: center;
   margin-top: 20px;
-  /* border: 6px solid black; */
   background-color: black;
   padding: 20px;
 
@@ -84,3 +83,28 @@ a:hover {
   margin-top: -3rem;
 }
 
+footer {
+  text-align: center;
+  color: black;
+  margin: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.highlight {
+  color: #ff0000;
+  font-weight: 800;
+}
+
+footer a {
+  color: red;
+  box-shadow: inset 0 0 0 0 #d65454;
+  margin: 0 -0.25rem;
+  padding: 0 0.25rem;
+  transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+footer a:hover {
+  box-shadow: inset 100px 0 0 0 #ffffff;
+  color: black;
+}
